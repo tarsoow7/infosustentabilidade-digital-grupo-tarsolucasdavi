@@ -1,92 +1,134 @@
-{
-  "projeto": "InfoSustentabilidade Digital",
-  "cidade_base": "Rio do Sul",
-  "pontos_coleta": [
-    {
-      "id_ponto": 1,
-      "nome_local": "Prefeitura",
-      "endereco": "Rua Alberto Koglin, 3.493",
-      "bairro": "Centro",
-      "cidade": "Dona Emma",
-      "contato": "(47) 3364-2800 ",
-      "materiais_aceitos": ["Notebooks", "Impressoras", "Celulares", "Geladeiras", "Rádios"],
-      "procedimento": {
-        "precisa_agendamento": false,
-        "possui_custo": false,
-        "modalidade": "coleta e entrega no local"
-      } 
-    },
-    {
-      "id_ponto": 2, 
-      "nome_local": "EEB Lindo Sardagna",
-      "endereco": "Centro, Dona Emma - SC, 89155-000",
-      "bairro": "Centro",
-      "cidade": "Dona Emma",
-      "contato": "seriedh14lsardagna@sed.sc.gov.br",
-      "materiais_aceitos": ["computadores", "teclados", "cabos"],
-      "procedimento": {
-        "precisa_agendamento": false,
-        "possui_custo": false,
-        "modalidade": "entrega no local"
-      },
-      "evidencias": [
-        { "tipo": "print de site", "arquivo": "evidencias/ponto-1-site.png" }
-      ]
-    }
-  ]
-}
-
-{
-  "projeto": "InfoSustentabilidade Digital",
-  "cidade_base": "José Boiteux",
-  "pontos_coleta": [
-    {
-      "id_ponto": 1,
-      "nome_local": "Penz Informática LTDA",
-      "endereco": "Avenida 26 de Abril, nº 488, Apto 03.",
-      "bairro": "Centro",
-      "cidade": "José Boiteux",
-      "contato": "(47) 99664-7957",
-      "materiais_aceitos": [
-        "monitor",
-        "teclados",
-        "cabos"
-      ],
-      "procedimento": {
-        "precisa_agendamento": true,
-        "possui_custo": true,
-        "modalidade": "entrega no local"
-      },
-      "evidencias": [
-        {
-          "tipo": "Print conversa Whatsapp",
-          "arquivo": "evidencias/ponto-1-print"
+[
+  {
+    "projeto": "InfoSustentabilidade Digital",
+    "cidade_base": "Rio do Sul",
+    "pontos_coleta": [
+      {
+        "id_ponto": 1,
+        "nome_local": "Prefeitura",
+        "endereco": "Rua Alberto Koglin, 3.493",
+        "bairro": "Centro",
+        "cidade": "Dona Emma",
+        "contato": "(47) 3364-2800",
+        "materiais_aceitos": ["Notebooks", "Impressoras", "Celulares", "Geladeiras", "Rádios"],
+        "procedimento": {
+          "precisa_agendamento": false,
+          "possui_custo": false,
+          "modalidade": "coleta e entrega no local"
         }
-      ]
-    },
-    {
-      "id_ponto": 2,
-      "nome_local": "APAE",
-      "endereco": "Rua 26 de Julho, nº 234, Centro, José Boiteux - SC",
-      "bairro": "Centro",
-      "cidade": "José Boiteux",
-      "contato": "(47) 3352-7035",
-      "materiais_aceitos": [
-        "monitor",
-        "teclados",
-        "cabos"
-      ],
-      "procedimento": {
-        "precisa_agendamento": true,
-        "possui_custo": true,
-        "modalidade": "entrega no local"
       },
-      "evidencias": [
-        {
-          "tipo": "Print conversa Whatsapp",
-          "arquivo": "evidencias/ponto-2-print"
-        }
-      ]
-    }
-  ]
-}
+      {
+        "id_ponto": 2,
+        "nome_local": "EEB Lindo Sardagna",
+        "endereco": "Centro, Dona Emma - SC, 89155-000",
+        "bairro": "Centro",
+        "cidade": "Dona Emma",
+        "contato": "seriedh14lsardagna@sed.sc.gov.br",
+        "materiais_aceitos": ["computadores", "teclados", "cabos"],
+        "procedimento": {
+          "precisa_agendamento": false,
+          "possui_custo": false,
+          "modalidade": "entrega no local"
+        },
+        "evidencias": [
+          {
+            "tipo": "print de site",
+            "arquivo": "evidencias/ponto-1-site.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "projeto": "InfoSustentabilidade Digital",
+    "cidade_base": "José Boiteux",
+    "pontos_coleta": [
+      {
+        "id_ponto": 1,
+        "nome_local": "Penz Informática LTDA",
+        "endereco": "Avenida 26 de Abril, nº 488, Apto 03.",
+        "bairro": "Centro",
+        "cidade": "José Boiteux",
+        "contato": "(47) 99664-7957",
+        "materiais_aceitos": ["monitor", "teclados", "cabos"],
+        "procedimento": {
+          "precisa_agendamento": true,
+          "possui_custo": true,
+          "modalidade": "entrega no local"
+        },
+        "evidencias": [
+          {
+            "tipo": "Print conversa Whatsapp",
+            "arquivo": "evidencias/ponto-1-print"
+          }
+        ]
+      },
+      {
+        "id_ponto": 2,
+        "nome_local": "APAE",
+        "endereco": "Rua 26 de Julho, nº 234, Centro, José Boiteux - SC",
+        "bairro": "Centro",
+        "cidade": "José Boiteux",
+        "contato": "(47) 3352-7035",
+        "materiais_aceitos": ["monitor", "teclados", "cabos"],
+        "procedimento": {
+          "precisa_agendamento": true,
+          "possui_custo": true,
+          "modalidade": "entrega no local"
+        },
+        "evidencias": [
+          {
+            "tipo": "Print conversa Whatsapp",
+            "arquivo": "evidencias/ponto-2-print"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "projeto": "InfoSustentabilidade Digital",
+    "cidade_base": "Pouso Redondo",
+    "pontos_coleta": [
+      {
+        "id_ponto": 3,
+        "nome_local": "Cetrobit Informática",
+        "endereco": "R. Querino Ferrari, 21 - Centro, Pouso Redondo - SC, 89172-000",
+        "bairro": "Centro",
+        "cidade": "Pouso Redondo",
+        "contato": "(47) 9998-4991",
+        "materiais_aceitos": ["Monitores", "Teclado", "Cabos", "Gabinete"],
+        "procedimento": {
+          "precisa_agendamento": true,
+          "possui_custo": false,
+          "modalidade": "Coleta e entrega"
+        },
+        "evidencias": [
+          {
+            "tipo": "Print conversa Whatsapp",
+            "arquivo": "evidencias/ponto-3-site.png"
+          }
+        ]
+      },
+      {
+        "id_ponto": 4,
+        "nome_local": "Big Informática",
+        "endereco": "R. Sete de Setembro, 195 - Centro, Pouso Redondo - SC, 89172-000",
+        "bairro": "Centro",
+        "cidade": "Pouso Redondo",
+        "contato": "(47) 99131-9601",
+        "materiais_aceitos": ["placas", "cabos"],
+        "procedimento": {
+          "precisa_agendamento": true,
+          "possui_custo": false,
+          "modalidade": "Coleta"
+        },
+        "evidencias": [
+          {
+            "tipo": "Print conversa Whatsapp",
+            "arquivo": "evidencias/ponto-4-site.png"
+          }
+        ]
+      }
+    ]
+  }
+]
