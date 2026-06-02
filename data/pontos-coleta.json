@@ -1,1 +1,37 @@
-
+{
+  "projeto": "InfoSustentabilidade Digital",
+  "cidade_base": "Rio do Sul",
+  "pontos_coleta": [
+    {
+      "id_ponto": 1,
+      "nome_local": "Prefeitura",
+      "endereco": "Rua Alberto Koglin, 3.493",
+      "bairro": "Centro",
+      "cidade": "Dona Emma",
+      "contato": "(47) 3364-2800 ",
+      "materiais_aceitos": ["Notebooks", "Impressoras", "Celulares", "Geladeiras", "Rádios"],
+      "procedimento": {
+        "precisa_agendamento": false,
+        "possui_custo": false,
+        "modalidade": "coleta e entrega no local"
+      } 
+    },
+    {
+      "id_ponto": 2, 
+      "nome_local": "EEB Lindo Sardagna",
+      "endereco": "Centro, Dona Emma - SC, 89155-000",
+      "bairro": "Centro",
+      "cidade": "Dona Emma",
+      "contato": "seriedh14lsardagna@sed.sc.gov.br",
+      "materiais_aceitos": ["computadores", "teclados", "cabos"],
+      "procedimento": {
+        "precisa_agendamento": false,
+        "possui_custo": false,
+        "modalidade": "entrega no local"
+      },
+      "evidencias": [
+        { "tipo": "print de site", "arquivo": "evidencias/ponto-1-site.png" }
+      ]
+    }
+  ]
+}
