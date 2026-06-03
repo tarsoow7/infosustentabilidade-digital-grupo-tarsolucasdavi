@@ -17,17 +17,29 @@
 
 ID	NOME	ENDEREÇO
 1	Prefeitura	Rua  Alberto Koglin, 3.493
+
 2	EEB Lindo Sardagna	Centro, Dona Emma - SC, 89155-000
+
 3	Cetrobit Informática	R. Querino Ferrari, 21 - Centro, Pouso Redondo - SC, 89172-000
+
 4	Big Informática	R. Sete de Setembro, 195 - Centro, Pouso Redondo - SC, 89172-000
+
 5	Penz Informática LTDA.	Avenida 26 de Abril, nº 488, Apto 03.
+
 6	APAE	Rua 26 de Julho, nº 234, Centro, José Boiteux – SC
+
 Id_ponto	Tipo	Descrição
+
 1	Print conversa Whatsapp	Conversa com Adriana de Dona Emma
+
 2	Print Google Maps	Comprovação do local no Maps
+
 3	Print conversa Whatsapp	Conversa com atendente
+
 4	Print conversa Whatsapp	Conversa com atendente
+
 5	Print conversa Whatsapp	Conversa com o Dono Carlos E. Penz
+
 6	Print conversa Whatsapp	Convesa com Pédagoga Noemia Gemelli
 		
 	
