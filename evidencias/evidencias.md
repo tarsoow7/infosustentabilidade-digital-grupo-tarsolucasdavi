@@ -31,3 +31,11 @@ Id_ponto	Tipo	Descrição
 6	Print conversa Whatsapp	Convesa com Pédagoga Noemia Gemelli
 		
 	
+-LINK DO GOOGLE SHEETS:https://docs.google.com/spreadsheets/d/1OsO8hSPCc8M3sWK7wZAZ98i1bAj1Gk8bOBBjpumbvRQ/edit?gid=856043527#gid=856043527
+
+-PRINT EVIDÊNCIA DE PARTICIPAÇÃO:<img width="1242" height="573" alt="image" src="https://github.com/user-attachments/assets/ae072ea4-5078-409c-aee5-c69b9066fb47" />
+
+EVIDÊNCIA PROJETO SUPABASE: Enviei o convite para participação do projeto como Owner.
+
+Consulta SQL executada?:
+R:Sim, foi feito com algumas dificuldades, foi um pouco difícil entender a sintaxe no começo e como executar e criar as tabelas porém depois deu certo.
