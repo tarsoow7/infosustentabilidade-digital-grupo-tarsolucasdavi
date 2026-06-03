@@ -15,10 +15,10 @@
 
 -PRINT EVIDÊNCIA DE PARTICIPAÇÃO:<img width="1242" height="573" alt="image" src="https://github.com/user-attachments/assets/ae072ea4-5078-409c-aee5-c69b9066fb47" />
 
-ID	NOME	ENDEREÇO
-1	Prefeitura	Rua  Alberto Koglin, 3.493
+ID	NOME	                ENDEREÇO
+1	Prefeitura	            Rua  Alberto Koglin, 3.493
 
-2	EEB Lindo Sardagna	Centro, Dona Emma - SC, 89155-000
+2	EEB Lindo Sardagna	    Centro, Dona Emma - SC, 89155-000
 
 3	Cetrobit Informática	R. Querino Ferrari, 21 - Centro, Pouso Redondo - SC, 89172-000
 
@@ -28,19 +28,19 @@ ID	NOME	ENDEREÇO
 
 6	APAE	Rua 26 de Julho, nº 234, Centro, José Boiteux – SC
 
-Id_ponto	Tipo	Descrição
+Id_ponto	Tipo    Descrição
 
-1	Print conversa Whatsapp	Conversa com Adriana de Dona Emma
+1	        Print | Conversa Whatsapp	Conversa com Adriana de Dona Emma
 
-2	Print Google Maps	Comprovação do local no Maps
+2	        Print | Google Maps	Comprovação do local no Maps
 
-3	Print conversa Whatsapp	Conversa com atendente
+3	        Print | Conversa Whatsapp	Conversa com atendente
 
-4	Print conversa Whatsapp	Conversa com atendente
+4	        Print | Conversa Whatsapp	Conversa com atendente
 
-5	Print conversa Whatsapp	Conversa com o Dono Carlos E. Penz
+5	        Print | Conversa Whatsapp	Conversa com o Dono Carlos E. Penz
 
-6	Print conversa Whatsapp	Convesa com Pédagoga Noemia Gemelli
+6	        Print | Conversa Whatsapp	Convesa com Pédagoga Noemia Gemelli
 		
 	
 -LINK DO GOOGLE SHEETS:https://docs.google.com/spreadsheets/d/1OsO8hSPCc8M3sWK7wZAZ98i1bAj1Gk8bOBBjpumbvRQ/edit?gid=856043527#gid=856043527
