@@ -62,4 +62,58 @@
 | 🧹 | **Linha Branca (Geladeiras)** | Entregar sempre limpo. |
 | 🔋 | **Portáteis e Telemóveis** | Remover pilhas e baterias integradas. |
 | 🔒 | **Dispositivos de Armazenamento** | Formatar e apagar dados pessoais. |
-| 🧪 | **Impressoras** | Remover toners e resíduos de tinta. |
+| 🧪 | **Impressoras** | Remover toners e resíduos de tinta. |   
+## 📋 Guia de Orientação e Procedimentos de Descarte – José Boiteux
+
+### 🟢 Ponto 1: Penz Informática LTDA
+
+* **📍 Modalidade:** Entrega no local
+* **💰 Custo:** 🆓 Gratuito
+* **📅 Horário de Funcionamento:** Segunda a Sexta, das `08:00 às 18:00`
+* **⚠️ Agendamento:** Recomendado contato prévio para entrega dos equipamentos.
+
+#### 📦 Materiais Aceitos
+
+* 🖥️ Monitores
+* ⌨️ Teclados
+
+#### 🛠️ Como preparar os materiais antes da entrega
+
+* **💻 Computadores e Notebooks:** Apague arquivos pessoais e formate o dispositivo, se possível.
+* **⌨️ Teclados:** Remova sujeiras e resíduos antes do descarte.
+* **🔌 Cabos e acessórios:** Organize os materiais para facilitar a triagem.
+
+---
+
+### 🔵 Ponto 2: APAE – José Boiteux
+
+* **📍 Modalidade:** Entrega no local
+* **💰 Custo:** 🆓 Gratuito
+* **📅 Horário de Funcionamento:** Segunda a Sexta, das `08:00 às 18:00`
+* **⚠️ Agendamento:** Recomendado contato prévio.
+
+#### 📦 Materiais Aceitos
+
+* 🔧 Placas Eletrônicas
+
+#### 🛠️ Como preparar os materiais antes da entrega
+
+* **🔧 Placas Eletrônicas:** Armazene em caixas ou embalagens para evitar danos e facilitar a separação.
+* **⚡ Equipamentos Eletrônicos:** Remova pilhas e baterias quando possível.
+
+---
+
+### 🔍 Resumo Prático de Preparação (Checklist)
+
+| Ícone | Tipo de Material         | Regra de Ouro para Descarte                         |
+| ----- | ------------------------ | --------------------------------------------------- |
+| 💻    | Computadores e Notebooks | Apagar dados pessoais antes do descarte.            |
+| ⌨️    | Teclados                 | Entregar limpos e sem resíduos.                     |
+| 🔌    | Cabos e Acessórios       | Organizar em conjuntos para facilitar a reciclagem. |
+| 🔧    | Placas Eletrônicas       | Armazenar adequadamente para evitar danos.          |
+| 🔋    | Pilhas e Baterias        | Remover dos equipamentos antes da entrega.          |
+
+### 📌 Observação
+
+Os pontos de coleta pesquisados em José Boiteux realizam o recebimento gratuito de resíduos eletrônicos e encaminham os materiais para destinação ambientalmente adequada, contribuindo para a redução dos impactos causados pelo descarte incorreto de lixo eletrônico.
+
